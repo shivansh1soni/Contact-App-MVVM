@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contact App MVVM</string>
+    <string name="shivanh_soni">Shivanh Soni</string>
+    <string name="_8871266369">8871266369</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="no">no</string>
+</resources>
